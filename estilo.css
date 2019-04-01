@@ -1,21 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono:300');
 
+@import url('https://fonts.googleapis.com/css?family=Heebo');
+
+@import url('https://fonts.googleapis.com/css?family=Heebo|Libre+Barcode+39');
+
 body {
-  color:#37474f;
+  color:#FFFFFF;
   padding:0;
   margin:0;
   margin-bottom:5rem;
-  font-family: Helvetica, Arial, sans-serif;
-  background:#e2f1f8;
+  font-family: 'Heebo', sans-serif;
+  background:	#000000	;
   line-height: 1.75;
 }
 
 a{
-  color:#222;
+  color:#FFFFFF;
 }
 
 a:hover{
-  color:#000;
+  color:#FFFFFF;
   text-decoration: none;
 }
 
@@ -91,7 +95,7 @@ pre{
 code{
   font-family: 'Roboto Mono', monospace;
   font-size:90%;
-  color:#7b1fa2;
+  color:#FFFFFF;
 }
 
 #cierre{
